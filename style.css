@@ -1,0 +1,31 @@
+body{
+  height: 95vh;
+  font-family: 'Arial',sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #1e1e1e;
+  color: #fff;
+}
+
+.generator-container{
+  background: #333;
+  padding: 30px;
+  width: 300px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+input{
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+}
+
+button{
+  padding: 10px;
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
